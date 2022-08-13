@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Expenses-Chart/static/css/main.b1b3a7df.css",
+    "main.js": "/Expenses-Chart/static/js/main.3e6820b0.js",
+    "static/js/787.914f33f1.chunk.js": "/Expenses-Chart/static/js/787.914f33f1.chunk.js",
+    "static/media/dm-sans-v11-latin-regular.svg": "/Expenses-Chart/static/media/dm-sans-v11-latin-regular.e8229917255023bd5246.svg",
+    "static/media/dm-sans-v11-latin-regular.ttf": "/Expenses-Chart/static/media/dm-sans-v11-latin-regular.bcc66a9158c5f47fc4bc.ttf",
+    "static/media/dm-sans-v11-latin-regular.woff": "/Expenses-Chart/static/media/dm-sans-v11-latin-regular.3343c4c5e4ff336a48d6.woff",
+    "static/media/dm-sans-v11-latin-regular.eot": "/Expenses-Chart/static/media/dm-sans-v11-latin-regular.c5644b2a4c865d46aa0c.eot",
+    "static/media/dm-sans-v11-latin-regular.woff2": "/Expenses-Chart/static/media/dm-sans-v11-latin-regular.71edbde4a8ed19eeef94.woff2",
+    "index.html": "/Expenses-Chart/index.html",
+    "main.b1b3a7df.css.map": "/Expenses-Chart/static/css/main.b1b3a7df.css.map",
+    "main.3e6820b0.js.map": "/Expenses-Chart/static/js/main.3e6820b0.js.map",
+    "787.914f33f1.chunk.js.map": "/Expenses-Chart/static/js/787.914f33f1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b1b3a7df.css",
+    "static/js/main.3e6820b0.js"
+  ]
+}
