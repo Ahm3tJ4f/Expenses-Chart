@@ -13,10 +13,10 @@ class Record extends Component{
     
     const randomHeight = Math.floor(Math.random()*100);
 
-    return <div className='Record'>
-        <div style={{height: `${randomHeight+10}%`}} className = 'Record__value' ></div>
-        <div className = 'Record__name'>{entry}</div>
-    </div>;
+    return <li className='Record'>
+        <span style={{height: `${randomHeight+10}%`}} className = 'Record__value' ></span>
+        <span className = 'Record__name'>{entry}</span>
+    </li>;
 
   }
 

@@ -14,9 +14,9 @@ class Chart extends Component{
 
     return <div className='Chart'>
         <h3 className='Chart__title'>Spending - Last 7 days</h3>
-        <div className = 'Chart__canvas'>
+        <ul className = 'Chart__canvas'>
           {entries}
-        </div>
+        </ul>
     </div>;
   }
 }

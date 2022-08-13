@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import Account from './components/Account'
+import Account from './Account'
 // import '../style/main.scss'
 
 class App extends Component{
