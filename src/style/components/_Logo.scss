@@ -1,0 +1,18 @@
+.Logo {
+    display: flex;
+
+    &__Circle {
+        border-radius: 50%;
+        border: 1px solid $color-white;
+        height: 5.5rem;
+        width: 5.5rem;
+
+        &_empty {
+            margin-right: -2.75rem;
+        }
+
+        &_filled {
+            background-color: $color-white;
+        }
+    }
+}

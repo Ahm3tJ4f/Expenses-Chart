@@ -1,0 +1,33 @@
+.Stats {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    font-size: 1rem;
+    letter-spacing: 1px;
+
+    color: $color-white;
+
+    &__title {
+        font-size: 1.5em;
+    }
+
+    &__price {
+        font-size: 2.8em;
+        font-weight: 600;
+    }
+
+
+    &__tertiary {
+        font-size: .7rem;
+        font-weight: 400;
+        text-align: right;
+    }
+
+
+    &__secondary {
+        font-size: .8rem;
+        font-weight: 400;
+        text-align: right;
+    }
+
+}
